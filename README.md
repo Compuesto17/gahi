@@ -1,2 +1,2 @@
-# gahi
-exaample
+# gahi kaau ko
+exaample aray ko
